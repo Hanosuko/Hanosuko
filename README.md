@@ -1,9 +1,9 @@
 # My name is Hanosuko
 
-**Founder & CEO @ [cispractice](https://t.me/cisprac)** 
+**Founder & CEO [@cispractice](https://t.me/cisprac)** 
 
 Fullstack developer & UI/UX design // 18 y.o.
-
+Minecraft PvP
 <br clear="right" />
 
 ### Projects
@@ -27,7 +27,3 @@ Fullstack developer & UI/UX design // 18 y.o.
 [![Channel](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Hanosuko)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@hanosuko)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@hanosuko)
-
-
-![Hanosuko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanosuko&show_icons=true&hide_border=true&theme=transparent)
-
