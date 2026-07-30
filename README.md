@@ -2,7 +2,7 @@
 
 **Founder & CEO [@cispractice](https://t.me/cisprac)** 
 
-Fullstack developer & UI/UX design // Minecraft PvPer 2019-2026 18 y.o.
+Fullstack developer & UI/UX design // Minecraft PvPer 2019-2026 // 18 y.o.
 <br clear="right" />
 
 ### Projects
