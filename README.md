@@ -10,7 +10,6 @@ Fullstack developer & UI/UX design // Minecraft PvPer 2019-2026 // 18 y.o.
 | Project | About | Source |
 |---|---|---|
 | [**lxvecvlt.com**](https://lxvecvlt.com) | Лендинг альбома *lxve cvlt* — Vue 3, TypeScript, Vite | [`lxvecvlt`](https://github.com/Hanosuko/lxvecvlt) |
-| [**cisprac.xyz**](https://www.cisprac.xyz) | Магазин Minecraft-сервера CISPractice — Vue 3 + TypeScript SPA | [`cispractice-frontend`](https://github.com/Hanosuko/cispractice-frontend) |
 | [**Hanosuko.art**](https://Hanosuko.art) | Био-лендинг с интеграцией тиров с cistiers.com | [`Hanosuko.art`](https://github.com/Hanosuko/Hanosuko.art) |
 | [**@editeprivebot**](https://t.me/editeprivebot) | Telegram-бот | private |
 
